@@ -15,7 +15,6 @@ public class PrimeNumber
 				{
 					flag = 1;
 				}
-//				System.out.println(i);
 			}
 			if(flag==0) 
 			{
